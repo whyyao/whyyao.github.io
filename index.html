@@ -7,6 +7,8 @@ featured_image: /images/social.jpg
 
 <section class="portfolio">
 
+	<h3>Design</h3><br>
+
 	<div class="content-wrap portfolio-wrap">
 
 		{% for project in site.projects reversed %}
@@ -23,6 +25,39 @@ featured_image: /images/social.jpg
 					<div class="portfolio-item__info">
 						<h2 class="portfolio-item__title">{{ project.title }}</h2>
 						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
+
+<section class="programming_portfolio">
+
+	<h3>Programming</h3><br>
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for program in site.programmings reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ program.url | relative_url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ program.featured_image | relative_url }}" alt="{{ program.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ program.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ program.subtitle }}</p>
 					</div>
 				</div>
 

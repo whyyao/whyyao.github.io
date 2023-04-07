@@ -67,6 +67,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  programmings:
+    output: true
+    permalink: /programmings/:slug
 
 defaults:
   -
@@ -92,6 +95,13 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "programmings"
+    values:
+      layout: "project"
+
 
 markdown: kramdown
 
