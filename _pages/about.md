@@ -2,7 +2,10 @@
 title: About Yao
 ---
 
-email: yuanyao.us@gmail.com
+Currently studying Human Computer Interaction @ **UCL**. Previously worked on Android @ [Procore Technologies](https://www.procore.com/en-gb).
+
+email: <yuanyao.us@gmail.com>
+
 
 ## Education
 Master of Science, Human-Computer Interaction
