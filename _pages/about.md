@@ -2,6 +2,8 @@
 title: About Yao
 ---
 
+email: yuanyao.us@gmail.com
+
 ## Education
 Master of Science, Human-Computer Interaction
 <em>@ University College London (UCL) </em> \
@@ -11,3 +13,12 @@ Bachelor of Science, Computer Science
 <em>@ University of California, Santa Barbara </em> \
 __Engineering Honors__ \
 2015-2019
+
+<br />
+
+## Professional Experience
+Android Developer / Procore Technologies\
+Aug 2019 - Apr 2022
+
+Product Lead & Full Stack Developer / GoGaucho\
+July 2017 - June 2019
