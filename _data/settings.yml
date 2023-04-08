@@ -11,12 +11,12 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    # - title: 'Contact'
+    #   url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8
