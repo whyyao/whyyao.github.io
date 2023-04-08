@@ -38,6 +38,7 @@
 
 .portfolio-item__image {
 	width: 100%;
+	border-radius: 16px;
 }
 
 .portfolio-item__content {
@@ -50,6 +51,7 @@
 	align-items: center;
 	justify-content: center;
 	background: rgba($overlay-background-color, $overlay-opacity);
+	border-radius: 16px;
 
 	opacity: 0;
 	visibility: hidden;
