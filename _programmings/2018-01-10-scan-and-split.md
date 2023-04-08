@@ -1,5 +1,5 @@
 ---
-title: "ScanAndSplit"
+title: "Scan&Split"
 subtitle: "An Android App that scans your receipts and split them with friends smartly."
 date: 2018-06-30 00:00:00
 featured_image: "/images/scanandsplit/scanandsplit.png"
