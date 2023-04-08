@@ -5,5 +5,10 @@ date: 2018-06-30 00:00:00
 featured_image: "/images/scanandsplit/scanandsplit.png"
 ---
 
+
+| Project Timeline  | Project Type  | Contributor |
+|----------------------|---------------| --------- |
+| 2019 | Class Project | Yuan Yao <br /> Tristan Starck <br />  Chandler Forrest |
+
 <a href="https://github.com/whyyao/ScanAndSplit" class="button button--large">
 <i class="fab fa-github"></i>&nbsp;&nbsp;View on Github</a>
