@@ -4,6 +4,16 @@
 
 // - - - - - - - - - - - - - - - - - -
 
+.introduction {
+	margin-top: 0;
+	padding-bottom: 24px;
+	padding: $grid-spacing;
+}
+
+.menu-title {
+	padding: $grid-spacing/2;
+}
+
 .portfolio {
 	margin-top: 0;
 	padding: $grid-spacing/2;
