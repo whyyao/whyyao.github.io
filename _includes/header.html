@@ -30,17 +30,6 @@
 		</div>
 		
 		<div class="projects-menu">
-			<p> Design Projects </p>
-			<ul class="menu__list">
-				{% for project in site.projects reversed %}
-				<li class="menu__list__item">
-					<a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-
-		<div class="projects-menu">
 			<p> Programming Projects </p>
 			<ul class="menu__list">
 				{% for programming in site.programmings reversed %}
@@ -51,6 +40,18 @@
 			</ul>
 		</div>
 
+
+		<div class="projects-menu">
+			<p> Design Projects </p>
+			<ul class="menu__list">
+				{% for project in site.projects reversed %}
+				<li class="menu__list__item">
+					<a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	
 		<div class="header__lower">
 
 			{% include socials.html %}
