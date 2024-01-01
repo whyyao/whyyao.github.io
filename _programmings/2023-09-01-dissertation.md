@@ -6,8 +6,8 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/dis/feature.png'
 ---
 
-## Under Construction...
-This is my master dissertation, based on <a href="https://dl.acm.org/doi/abs/10.1145/2370216.2370251" class="button button--light">existing reserach</a>
+## Project Aim
+This is my master dissertation, based on <a href="https://dl.acm.org/doi/abs/10.1145/2370216.2370251">existing reserach</a>, in the aim of investigating consumer's engagement with data visulization and its effects on them in the enviroment without being monitored to reduce hawthorne effect. The backend of the project is built on Python with Django framework, and the data visulization is achieved by Vega-Lite. 
 
 ### Annotate View
 ![](/images/dis/annotate_view.png)
