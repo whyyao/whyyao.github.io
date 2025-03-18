@@ -34,4 +34,4 @@ Sept 2022 - Dec 2023
 
 ### Bachelor of Science, Computer Science @ University of California, Santa Barbara (UCSB)
 __Engineering Honors__ \
-Sept 2015- June2019
+Sept 2015- June 2019
